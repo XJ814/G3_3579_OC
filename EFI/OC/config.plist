@@ -1044,7 +1044,7 @@
 			<key>Resolution</key>
 			<string>1920x1080</string>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
